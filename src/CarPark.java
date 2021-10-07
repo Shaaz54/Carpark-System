@@ -11,7 +11,7 @@ public interface CarPark {
     static void parkVan(){ }
 
     /**
-     * This method is to view the details of the van parked in the car park seperately
+     * This method is to view the details of the van parked in the car park seperately..
      */
     static void viewVan(){}
 
